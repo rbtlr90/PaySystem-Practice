@@ -1,5 +1,5 @@
-rootProject.name = 'PaySystemPractice-Monolith'
+rootProject.name = 'PaySystemPractice'
 include 'membership-service'
 include 'common'
-include 'common'
+include 'banking-service'
 
