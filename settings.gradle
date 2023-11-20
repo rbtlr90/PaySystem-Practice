@@ -1,0 +1,5 @@
+rootProject.name = 'PaySystemPractice-Monolith'
+include 'membership-service'
+include 'common'
+include 'common'
+
