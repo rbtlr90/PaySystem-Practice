@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/banking-service/PaySystemPractice.banking-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/banking-service/PaySystemPractice.banking-service.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PaySystemPractice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PaySystemPractice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/PaySystemPractice.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/PaySystemPractice.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logging-consumer/PaySystemPractice.logging-consumer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/logging-consumer/PaySystemPractice.logging-consumer.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/membership-service/PaySystemPractice.membership-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/membership-service/PaySystemPractice.membership-service.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/money-service/PaySystemPractice.money-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/money-service/PaySystemPractice.money-service.main.iml" />
     </modules>
