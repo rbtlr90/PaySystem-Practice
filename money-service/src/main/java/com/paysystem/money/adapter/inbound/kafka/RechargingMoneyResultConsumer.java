@@ -44,7 +44,7 @@ public class RechargingMoneyResultConsumer {
                     ConsumerRecords<String, String> records = consumer.poll(Duration.ofSeconds(1));
                     for (ConsumerRecord<String, String> record : records) {
                         System.out.println("Received message: " + record.key()  + " / "+  record.value());
-                        // record: RechargingMoneyTask, ( all subtask is don)
+                        // record: RechargingMoneyTask, ( all subtask is done)
 
 
                         RechargingMoneyTask task;

@@ -5,7 +5,7 @@ ext{
     axonVersion = "4.6.0"
 }
 
-group = 'com.paysystem.banking'
+group = 'com.paysystem.remittance'
 version = '1.0.0'
 
 dependencies {
