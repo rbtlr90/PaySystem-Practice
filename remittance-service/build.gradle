@@ -1,9 +1,10 @@
 plugins {
     id 'com.palantir.docker' version '0.25.0'
 }
-ext{
-    axonVersion = "4.6.0"
-}
+
+//ext{
+//    axonVersion = "4.8.0"
+//}
 
 group = 'com.paysystem.remittance'
 version = '1.0.0'
@@ -20,8 +21,8 @@ dependencies {
     testImplementation 'junit:junit:4.13.1'
     runtimeOnly 'mysql:mysql-connector-java'
 
-    implementation group: 'org.axonframework', name: 'axon-configuration', version: "$axonVersion"
-    implementation group: 'org.axonframework', name: 'axon-spring-boot-starter', version: "$axonVersion"
+//    implementation group: 'org.axonframework', name: 'axon-configuration', version: "$axonVersion"
+//    implementation group: 'org.axonframework', name: 'axon-spring-boot-starter', version: "$axonVersion"
 }
 
 docker {

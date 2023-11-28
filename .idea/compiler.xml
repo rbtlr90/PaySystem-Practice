@@ -13,6 +13,7 @@
         <module name="PaySystemPractice.logging-consumer.main" />
         <module name="PaySystemPractice.money-service.main" />
         <module name="PaySystemPractice.common.main" />
+        <module name="PaySystemPractice.payment-service.main" />
         <module name="PaySystemPractice.banking-service.main" />
         <module name="PaySystemPractice.membership-service.main" />
       </profile>
